@@ -248,12 +248,6 @@ export default function PropuestaComercial() {
                     Servidor Local
                   </Badge>
                 </div>
-                <div className="flex justify-between items-center">
-                  <span className="text-gray-600">Seguridad</span>
-                  <Badge variant="outline" className="border-symplex-green text-symplex-green">
-                    SSL Incluido
-                  </Badge>
-                </div>
               </CardContent>
             </Card>
 
