@@ -444,28 +444,6 @@ export default function PropuestaComercial() {
                     </li>
                   </ul>
                 </div>
-                <div>
-                  <h3 className="font-bold text-gray-900 mb-4 flex items-center">
-                    <Clock className="w-5 h-5 text-symplex-green mr-2" />
-                    Servicios Adicionales Symplex
-                  </h3>
-                  <ul className="space-y-3 text-gray-600">
-                    <li className="flex items-center">
-                      <div className="w-2 h-2 bg-symplex-green rounded-full mr-3"></div>
-                      Configuración de SSL
-                    </li>
-                    <li className="flex items-center">
-                      <div className="w-2 h-2 bg-symplex-green rounded-full mr-3"></div>
-                      Asesoría en dominio
-                    </li>
-                  </ul>
-                </div>
-              </div>
-              <div className="mt-6 bg-symplex-blue/10 border border-symplex-blue/20 rounded-lg p-4">
-                <p className="text-sm text-symplex-blue">
-                  <strong>Ventaja Symplex:</strong> Nuestro equipo técnico especializado se encarga de toda la
-                  configuración y optimización de la infraestructura sin costo adicional.
-                </p>
               </div>
             </CardContent>
           </Card>
@@ -608,7 +586,7 @@ export default function PropuestaComercial() {
             <div className="text-center">
               <h4 className="text-lg font-bold text-white mb-4">Contacto</h4>
               <p className="text-gray-400 mb-2">📧 jjimenez@symplex.com.co</p>
-              <p className="text-gray-400 mb-2">📱 +57 300 763 0769</p>
+              <p className="text-gray-400 mb-2">📱 +57 318 045 0109</p>
               <p className="text-gray-400">🏢 Bucaramanga, Colombia</p>
             </div>
 
